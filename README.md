@@ -13,3 +13,4 @@ textattendance_tracker_<project_name>/
 │   └── config.json
 └── reports/
     └── reports.log
+Here is a detailed 5 min video : https://youtu.be/uKrKsNr_7LI?si=H51LfVMe8-vXeFyI
